@@ -20,7 +20,7 @@ Interview bot with improved framework for question difficulty estimation to ensu
 2. Navigate to the project directory:
 
     ```bash
-    cd Interviewer-Bot-Backend
+    cd Interview-Bot-Backend
     ```
 
 3. Create a virtual environment:
